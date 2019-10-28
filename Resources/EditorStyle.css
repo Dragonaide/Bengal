@@ -1,0 +1,11 @@
+#editor {
+  font-family: 'Cabin', sans-serif;
+}
+#editor .explorer {
+  background-color: rgb(0.28,0.29,0.29);
+  color: white;
+}
+#editor .main-menu {
+  background-color: rgb(0.28,0.29,0.29);
+  color: white;
+}
